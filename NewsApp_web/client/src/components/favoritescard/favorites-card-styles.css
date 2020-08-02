@@ -1,0 +1,47 @@
+.card_container {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #c1c1c1;
+    border-radius: 5px;
+    box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.page_container {
+    padding: 15px;
+}
+
+.header_text {
+    color: #663300;
+}
+
+.date_text {
+    font-style: italic;
+    float: left;
+}
+
+.h5, h5 {
+    font-size: 1rem;
+    
+}
+
+.title_text {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.section_tab {
+    float: right;
+    margin-left: 5px;
+}
+
+.img_container {
+    padding: 5px;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+
+.no_saved{
+    text-align: center;
+}

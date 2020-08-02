@@ -1,0 +1,39 @@
+.cancle_dec {
+    text-decoration: none;
+}
+
+.news_container {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #c1c1c1;
+    border-radius: 5px;
+    box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.3);
+    width: auto !important;
+    overflow: hidden;
+    margin: 15px 15px 30px 15px;
+    cursor: pointer;
+    padding: 20px;
+}
+
+
+.news_image_container {
+    padding: 5px;
+    height: 200px;
+    overflow: hidden;
+}
+
+.bold_title {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+
+.italic_date {
+    font-style: italic;
+    float: left;
+}
+
+.section_tab {
+    float: right;
+}
+

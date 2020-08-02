@@ -1,0 +1,9 @@
+.bookmark_icon_save {
+    color: red;
+    margin-right: 1rem;
+}
+
+.Toastify__toast--default {
+    background-color: #ffffff;
+    color: black;
+}

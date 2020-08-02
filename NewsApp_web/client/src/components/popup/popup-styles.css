@@ -1,0 +1,23 @@
+.bold_font {
+    text-align: center;
+    font-size: 1.3rem !important;
+}
+
+.share_but {
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+
+.modal-title {
+    margin-bottom: 0;
+    line-height: 1.25;
+    font-size: 1.3rem !important;
+}
+
+.bold_source {
+    font-weight: bold;
+    font-size: 1.8rem !important;
+}
+
+

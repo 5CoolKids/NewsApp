@@ -1,0 +1,39 @@
+.tag_tech {
+    color: black;
+    background-color: #cdda3c;
+}
+
+.tag_world {
+    color: white;
+    background-color: #7a4dfd;
+}
+
+.tag_politics {
+    color: white;
+    background-color: #41978b;
+}
+
+.tag_business {
+    color: white;
+    background-color: #419aea;
+}
+
+.tag_sport {
+    color: black;
+    background-color: #f7c142;
+}
+
+.tag_health {
+    color: white;
+    background-color: #747281;
+}
+
+.tag_guar {
+    color: white;
+    background-color: #12274c;
+}
+
+.tag_nyt {
+    color: black;
+    background-color: #dfdfdf;
+}
